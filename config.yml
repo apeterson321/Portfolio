@@ -1,4 +1,38 @@
 baseURL: "https://creative-meerkat-af4fe4.netlify.app/"
 languageCode: en-us
-title: Portfolio Website
+title: Avery Peterson
 theme: PaperMod
+
+menu:
+  main:
+    - identifier: about
+      name: About
+      url: /about/
+      weight: 10
+    - identifier: archives
+      name: Archives
+      url: /archives/
+      weight: 10
+
+params:
+  homeInfoParams:
+      Title: Hi there 👋🏻
+      Content: Welcome to my website! My name is Avery, and I'm a Data Scientist
+
+  # defaultTheme: light
+  defaultTheme: dark
+  #defaultTheme: auto # to switch between dark or light according to browser theme
+  disableThemeToggle: false
+
+  socialIcons: 
+    - name: linkedin
+      url: "https://www.linkedin.com/in/avery-peterson/"
+    # - name: twitter
+    #   url: "https://twitter.com/averycoolkiddd"
+    - name: github
+      url: "https://github.com/apeterson321"
+    - name: gmail
+      url: "mailto:averypeterson1996@gmail.com"
+
+  ShowBreadCrumbs: true
+
