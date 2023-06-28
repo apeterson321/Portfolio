@@ -9,9 +9,7 @@ cover:
 
 ## Welcome to my website!
 
-* Brief description about who I am 
-* Outline my experience
-* add some personal hobbies / interests
+* testing update
 
 
 ### Contacts
