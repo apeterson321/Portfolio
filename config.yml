@@ -9,15 +9,15 @@ menu:
       name: About
       url: /about/
       weight: 10
-    - identifier: archives
-      name: Archives
-      url: /archives/
-      weight: 10
+    # - identifier: archives
+    #   name: Archives
+    #   url: /archives/
+    #   weight: 10
 
 params:
   homeInfoParams:
       Title: Hi there 👋🏻
-      Content: Welcome to my website! My name is Avery, and I'm a Data Scientist
+      Content: Welcome to my website! My name is Avery, and I'm an Data Scientist. My goal is to leverage data to unl
 
   # defaultTheme: light
   defaultTheme: dark
