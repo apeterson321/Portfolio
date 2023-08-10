@@ -1,6 +1,6 @@
 ---
 title: "Project 3: Classification Model for Miami Real Estate Market"
-date: 2022-07-28T19:56:11-06:00
+# date: 2022-07-28T19:56:11-06:00
 draft: false
 cover:
     image: img/MiamiClassification.png
