@@ -22,12 +22,4 @@ cover:
 
 [Linked to GitHub Repo](https://github.com/apeterson321/EDA_Girl_Scout_Project)
 
-. . . 
-
-    def square_number(num):
-        return num * num
-
-    print(square_number(5))  # Expected output: 25
-
-. . . 
 
