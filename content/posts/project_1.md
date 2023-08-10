@@ -24,10 +24,10 @@ cover:
 
 . . . 
 
-def square_number(num):
-    return num * num
+    def square_number(num):
+        return num * num
 
-print(square_number(5))  # Expected output: 25
+    print(square_number(5))  # Expected output: 25
 
 . . . 
 
